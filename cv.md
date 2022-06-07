@@ -13,3 +13,6 @@ In my free time I enjoy reading books, technology and learning new things.
 
 ## My skills ##
 **HTML** basic level
+
+## Сourses ##
+**JS/FE Pre-School** - in progress
