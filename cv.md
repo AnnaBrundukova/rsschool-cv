@@ -7,3 +7,6 @@
 * **Phone:** +375445311669
 * **Discord:** Anna_Brundukova
 
+## About me ##
+Graduate Francisk Skorina Gomel State University Faculty of Biology in 2016. I worked as a teacher at school for 5 years. After worked in a laboratory. Now I work in IT company as a sales manager.
+
